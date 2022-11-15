@@ -1,7 +1,7 @@
 # CardJitsu
 Haskell_CardJitsu
 Conceptual Simple Recreation of Former Club Penguin Minigame "Card Jitsu" in Haskell 
-created for CPSC 312 2019 W1 at UBC
+created for CPSC 312 2019 W1 at UBC by James Drayton Beninger, Jeffrey Wang, and Rui Wang (https://wiki.ubc.ca/NumbArena)
 
 The game is played with a set of 30 cards. Each card has an element "FIRE", "WATER" or "ICE" and a number 1-10 representing
 its relative strength.
